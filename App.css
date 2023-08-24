@@ -1,0 +1,33 @@
+
+.heading{
+  
+  color: var(--ecm-color-palette, #887C68);
+font-family: Martel Sans;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+/* width: 397px; */
+height: 32px;
+flex-shrink: 0;
+  }
+  .heading-container {
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+   
+  }  
+
+.hedingon{
+  color: var(--ecm-color-palette, #887C68);
+font-family: Martel Sans;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: uppercase;
+width: 207px;
+height: 32px;
+flex-shrink: 0;
+  }
