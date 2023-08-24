@@ -1,0 +1,41 @@
+
+  
+  .card-image {
+    width: 391px;
+height: 552px;
+flex-shrink: 0;
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.00) 0%, rgba(0, 0, 0, 0.80) 100%),lightgray 50% / cover no-repeat; }
+  
+  
+  
+
+  
+  .text-overlay {
+    position: absolute;
+    top: 480px;
+    left: 47px;
+    display: flex;
+    color: #FFF;
+text-align: center;
+font-family: Martel Sans;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: 32px; /* 114.286% */
+text-transform: uppercase;
+    /* justify-content: center;
+    align-items: center; */
+  }
+  
+  .text-overlay p {
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+  }
+  
+  
+  
+  
+  
+
+  
